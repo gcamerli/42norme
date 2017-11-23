@@ -19,10 +19,16 @@ Just run:
 python norminette.py
 ```
 
+For a better configuration export the PATH of this folder inside
+your `.zshrc` and set an alias like this:
+
+`alias norm="python $NORM/norminette.py"
+
+To see the help add the flags `--help`.
+
 ### **Notes**
 
 + It's possible to use it just connecting to **42** wifi.
-
 + It's not possible to use the flag:
 
 `checkForbiddenHeaderSource`
