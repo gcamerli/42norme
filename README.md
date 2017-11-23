@@ -22,7 +22,7 @@ python norminette.py
 For a better configuration export the PATH of this folder inside
 your `.zshrc` and set an alias like this:
 
-`alias norm="python $NORM/norminette.py"
+`alias norm="python $NORM/norminette.py"`
 
 To see the help add the flags `--help`.
 
