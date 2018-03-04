@@ -40,6 +40,6 @@ To see the help add the flags `--help`.
 
 + [@lefta](https://github.com/lefta)
 
-### **GPL License**
+### **License**
 
-This work is licensed under the terms of **[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl.html)**.
+This work is published under the terms of **[42 Unlicense](https://github.com/gcamerli/42unlicense)**.
